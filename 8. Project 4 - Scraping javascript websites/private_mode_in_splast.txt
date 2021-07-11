@@ -1,0 +1,13 @@
+Quick note (Splash private mode)
+Hi there,
+
+I just want to clarify things a little more regarding Splash private mode.
+
+So from the previous lecture when I injected the cookie request header Splash was able to load the web page but the content was missing, and I told you that's because Splash by default operates in a mode called private mode (similar to chrome incognito mode).
+
+However in Splash things are little bit different than a real browser and because private mode is enabled by default this means Splash won't allow the cookie header to transition from a request to another.
+
+In addition to that when private mode is enabled this means the browser localStorage is disabled too (that's how Apple Webkit Works).
+
+A rule of thumb:
+Whenever you try to scrape a website that is built using AngularJS, reactJS, Vuejs or any JavaScript framework/library it is mandatory to disable Splash private mode.
