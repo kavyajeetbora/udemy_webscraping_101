@@ -1,4 +1,4 @@
-![](https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg)
+![](https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg)
 
 # Web Scraping 101 with Python3 using REQUESTS, LXML &amp; SPLASH by created by Ahmed Rafik
 
