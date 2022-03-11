@@ -19,4 +19,4 @@ What I have learnt from this course:
 - [x] Building datasets
 - ~~Authentication and Login to websites using Requests~~ : 
  
-This still needs to be done. As diabling javascript in the web browser was not rendering the mobile version of twitter in the last exercise.
+This still needs to be done. As disabling javascript in the web browser was not rendering the mobile version of twitter in the last exercise.
